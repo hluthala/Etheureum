@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1703.6
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EthereumJwtApi", "EthereumJwtApi\EthereumJwtApi.csproj", "{6113635C-A746-499F-854F-10D4304F98FA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EthereumJwtClient", "EthereumJwtClient\EthereumJwtClient.csproj", "{0A2B0EA8-6370-45B4-9BCE-54E5EE1AE214}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6113635C-A746-499F-854F-10D4304F98FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6113635C-A746-499F-854F-10D4304F98FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6113635C-A746-499F-854F-10D4304F98FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6113635C-A746-499F-854F-10D4304F98FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A2B0EA8-6370-45B4-9BCE-54E5EE1AE214}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A2B0EA8-6370-45B4-9BCE-54E5EE1AE214}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A2B0EA8-6370-45B4-9BCE-54E5EE1AE214}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A2B0EA8-6370-45B4-9BCE-54E5EE1AE214}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {369D330A-0503-4506-BC90-0E3FB841B0CC}
+	EndGlobalSection
+EndGlobal

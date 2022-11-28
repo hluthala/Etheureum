@@ -1,0 +1,7 @@
+/Users/admin/Documents/GitHub/EthereumJwtApi/EthereumJwtApi/obj/Debug/net6.0/EthereumJwtApi.csproj.AssemblyReference.cache
+/Users/admin/Documents/GitHub/EthereumJwtApi/EthereumJwtApi/obj/Debug/net6.0/EthereumJwtApi.GeneratedMSBuildEditorConfig.editorconfig
+/Users/admin/Documents/GitHub/EthereumJwtApi/EthereumJwtApi/obj/Debug/net6.0/EthereumJwtApi.AssemblyInfoInputs.cache
+/Users/admin/Documents/GitHub/EthereumJwtApi/EthereumJwtApi/obj/Debug/net6.0/EthereumJwtApi.AssemblyInfo.cs
+/Users/admin/Documents/GitHub/EthereumJwtApi/EthereumJwtApi/obj/Debug/net6.0/EthereumJwtApi.csproj.CoreCompileInputs.cache
+/Users/admin/Documents/GitHub/EthereumJwtApi/EthereumJwtApi/obj/Debug/net6.0/EthereumJwtApi.MvcApplicationPartsAssemblyInfo.cs
+/Users/admin/Documents/GitHub/EthereumJwtApi/EthereumJwtApi/obj/Debug/net6.0/EthereumJwtApi.MvcApplicationPartsAssemblyInfo.cache

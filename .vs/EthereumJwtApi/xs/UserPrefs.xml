@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="{6113635C-A746-499F-854F-10D4304F98FA}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="EthereumJwtApi/Models/LoginVM.cs">
+    <Files>
+      <File FileName="EthereumJwtApi/Program.cs" Line="45" Column="27" />
+      <File FileName="EthereumJwtApi/appsettings.json" Line="6" Column="5" />
+      <File FileName="EthereumJwtApi/Controllers/TokenController.cs" Line="76" Column="10" />
+      <File FileName="EthereumJwtApi/Models/LoginVM.cs" Line="17" Column="6" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="EthereumJwtApi" expanded="True">
+            <Node name="EthereumJwtApi" expanded="True">
+              <Node name="Models" expanded="True">
+                <Node name="LoginVM.cs" selected="True" />
+              </Node>
+            </Node>
+            <Node name="EthereumJwtClient" expanded="True">
+              <Node name="Models" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.EthereumJwtApi PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>
